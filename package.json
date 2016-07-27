@@ -1,0 +1,23 @@
+{
+  "name": "mongo-node-performance",
+  "version": "1.0.0",
+  "description": "Test performance of MongoDB and MongoDB client on Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motomux/mongo-node-performance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/motomux/mongo-node-performance/issues"
+  },
+  "homepage": "https://github.com/motomux/mongo-node-performance#readme",
+  "dependencies": {
+    "mongodb": "2.2.4"
+  }
+}

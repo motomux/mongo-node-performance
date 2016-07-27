@@ -5,5 +5,5 @@ Test performance of MongoDB and MongoDB client on Node.js
 
 ```
 npm install
-MONGO_URL='mongodb://~' TOTAL_QUERY=3000000 WRITE_CONCERN=2 npm start
+MONGO_URL='mongodb://~' TOTAL_QUERY=3000000 WRITE_CONCERN=2 HOST_INDEX=0 npm start
 ```
